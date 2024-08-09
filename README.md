@@ -1,7 +1,9 @@
-# Imageviewer
+# template-2025
 
-An example of an image gallery with camera and map support
-based on Compose Multiplatform (desktop, Web, Android and iOS).
+Compose Multiplatform template 2025
+
+
+
 
 [![Static Badge](https://img.shields.io/badge/online%20demo%20%F0%9F%9A%80-6b57ff?style=for-the-badge)](https://zal.im/wasm/iv).
 
