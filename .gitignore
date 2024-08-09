@@ -1,0 +1,31 @@
+# Build/Android
+.gradle
+/local.properties
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.kotlin/**
+
+build/
+/captures
+
+# OSX ?
+.DS_Store
+
+
+# iOS
+iosApp/Podfile.lock
+iosApp/Pods/*
+iosApp/iosApp.xcworkspace/*
+iosApp/iosApp.xcodeproj/*
+!iosApp/iosApp.xcodeproj/project.pbxproj
+shared/shared.podspec
+
+# Other crap
+.externalNativeBuild
+.cxx
+*.iml

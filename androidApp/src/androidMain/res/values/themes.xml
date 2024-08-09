@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Template2025" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        TODO: Remove -->
+<!--        <item name="android:windowFullscreen">true</item>-->
+    </style>
+</resources>
